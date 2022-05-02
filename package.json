@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/oriovaldof/tailwind-css-estudo1#readme",
   "devDependencies": {
-    
+    "tailwindcss": "^3.0.24"
   }
 }
